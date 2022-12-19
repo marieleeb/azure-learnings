@@ -1,0 +1,5 @@
+$schema: https://azuremlschemas.azureedge.net/latest/data.schema.json
+name: diabetes-dev-folder
+description: Data asset created from folder in cloud.
+type: uri_folder
+path: marieleeb/azure-learnings/experimentation/data
